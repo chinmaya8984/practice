@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42" started-at="2022-04-14T00:37:52 IST" finished-at="2022-04-14T00:37:53 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42" started-at="2022-04-14T00:37:52 IST" finished-at="2022-04-14T00:37:53 IST">
+      <class name="practice.A">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:practice.A@57e1b0c]" name="beforeClass" is-config="true" duration-ms="6" started-at="2022-04-14T00:37:52 IST" finished-at="2022-04-14T00:37:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:practice.A@57e1b0c]" name="beforeTest" is-config="true" duration-ms="1" started-at="2022-04-14T00:37:53 IST" finished-at="2022-04-14T00:37:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:practice.A@57e1b0c]" name="test1" duration-ms="4" started-at="2022-04-14T00:37:53 IST" finished-at="2022-04-14T00:37:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:practice.A@57e1b0c]" name="afterTest" is-config="true" duration-ms="0" started-at="2022-04-14T00:37:53 IST" finished-at="2022-04-14T00:37:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:practice.A@57e1b0c]" name="test2" duration-ms="0" started-at="2022-04-14T00:37:53 IST" finished-at="2022-04-14T00:37:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:practice.A@57e1b0c]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-04-14T00:37:53 IST" finished-at="2022-04-14T00:37:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:practice.A@57e1b0c]" name="afterTest" is-config="true" duration-ms="1" started-at="2022-04-14T00:37:53 IST" finished-at="2022-04-14T00:37:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:practice.A@57e1b0c]" name="afterClass" is-config="true" duration-ms="1" started-at="2022-04-14T00:37:53 IST" finished-at="2022-04-14T00:37:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- practice.A -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
